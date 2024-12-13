@@ -17,12 +17,12 @@ A **Streamlit-based web app** that recommends board games based on preferences a
 ## 🛠️ Setup Instructions
 - Clone the Repository
 - Install Dependencies
-- **Add Your OpenAI API Key**
-Create a file named .env in the project root directory and add your OpenAI API key:
-- **OPENAI_API_KEY=your_openai_api_key_here**
+- ### Add Your OpenAI API Key
+  - Create a file named .env in the project root directory and add your OpenAI API key:
+  - **OPENAI_API_KEY=your_openai_api_key_here**
 - Run the Web App
-- Launch the app with Streamlit:
-- **streamlit run streamlit_app.py**
+  - Launch the app with Streamlit:
+  - **streamlit run streamlit_app.py**
 - Open the URL shown in the terminal (usually http://localhost:8501).
 
 ---
